@@ -1,3 +1,1 @@
-# Git-test
-Git test
-this is test just test.
+오늘부터 파이썬 공부 제대로 해봅니다.
