@@ -11,3 +11,4 @@ b = "문자열객체" # string형 클래스
 c = True , # 불린형 클래스
 
 print(b.__dir__())
+dcdcc
